@@ -6,7 +6,7 @@ Shifts bits one place to the right and prints the result.
 """
 
 #Input the string
-string = input()
+string = input("Please Enter the String: ")
 
 #Shift bit
 shiftRight = string[-1]+string[0:-1]
